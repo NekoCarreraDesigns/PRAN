@@ -1,0 +1,67 @@
+#cufflinks {
+    color:red;
+    padding: 20px 10px 20px 10px;
+    display: inline-block;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 600;
+
+}
+#hallway {
+    background-color: black;
+    border-radius: 5px;
+    box-shadow: red 5px 5px 5px;
+    padding: 10px;
+}
+#search{
+    float: right;
+    margin-top: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
+    border-radius: 5px;
+    box-shadow: 5px 4px 2px red;
+    height:25px;
+    width: 300px;
+}
+a:hover {
+    background-color: pink;
+    
+}
+#placard {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 600;
+    color: red;
+    padding: 20px;
+    text-shadow: 5px 5px 10px pink, 1px 1px 2px black, 0 0 10px blue;
+} 
+body {
+    background-image: url(https://images.unsplash.com/photo-1552169067-2e1d47319db3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMjF9&auto=format&fit=crop&w=500&q=60);
+    color: red;
+
+}
+#acceptance-letter {
+    font-size: 24px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 700;
+    text-shadow: black 3px 3px;
+    line-height: 30px;
+    padding: 10px;
+
+}
+#mantra {
+    color: rgb(241, 204, 210);
+    font-size: 32px;
+    text-shadow: black 3px 3px;
+    font-weight: 700;
+
+}
+#rulebook {
+    font-size: 24px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 800;
+    line-height: 40px;
+    text-shadow: black 3px 3px;
+    
+
+}
